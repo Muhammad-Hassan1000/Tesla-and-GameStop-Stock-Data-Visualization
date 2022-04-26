@@ -5,3 +5,12 @@ An analysis was done on the share prices of Tesla and of GameStop over a period 
 
 Below are some insights that were drawn after the analysis shown through graphs.
 
+## Tesla
+<img alt='Tesla Share Prices' src='https://github.com/Muhammad-Hassan1000/Tesla-and-GameStop-Stock-Data-Visualization/blob/main/Tesla%20Share%20Price.JPG'>
+
+<img alt='Tesla Revenue' src='https://github.com/Muhammad-Hassan1000/Tesla-and-GameStop-Stock-Data-Visualization/blob/main/Tesla%20Revenue.JPG'>
+
+## GameStop
+<img alt='GameStop Share Prices' src='https://github.com/Muhammad-Hassan1000/Tesla-and-GameStop-Stock-Data-Visualization/blob/main/GameStop%20Share%20Price.JPG'>
+
+<img alt='GameStop Revenue' src='https://github.com/Muhammad-Hassan1000/Tesla-and-GameStop-Stock-Data-Visualization/blob/main/GameStop%20Revenue.JPG'>
